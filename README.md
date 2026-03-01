@@ -1,6 +1,6 @@
 # SmartParse
 
-SmartParse is an **AI prompt** that transforms websites into structured APIs, extracts public data, and provides basic web security insights — all **legal and ethical**.  
+SmartParse is an **prompt** that transforms websites into structured APIs, extracts public data, and provides basic web security insights — all **legal and ethical**.  
 
 Instead of scraping messy HTML, it analyzes how websites load data internally and generates clean, usable data.
 
